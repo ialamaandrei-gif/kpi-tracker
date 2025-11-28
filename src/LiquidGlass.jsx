@@ -7,7 +7,7 @@ import * as XLSX from "xlsx";
 import welcomeImage from './welcome_image.png';
 
 // ---------------- Periods ----------------
-const PERIODS = ["Q3 '25", "Q2 '25", "Q1 '25", "Q4 '24", "Q3 '24", "Q2 '24"]; // current + 4 previous
+const PERIODS = ["Q4 '25", "Q3 '25", "Q2 '25", "Q1 '25"]; // current + 4 previous
 const CURRENT_PERIOD = PERIODS[0];
 
 // ---------------- Utilities ----------------
